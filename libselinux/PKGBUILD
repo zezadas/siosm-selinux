@@ -1,6 +1,7 @@
 # Maintainer: Timothée Ravier <tim@siosm.fr>
 # Contributor: Nicky726 (Nicky726 <at> gmail <dot> com)
 # Contributor: Sergej Pupykin (pupykin <dot> s+arch <at> gmail <dot> com)
+# Contributor: Zezadas
 
 pkgname=libselinux
 pkgver=2.2.2
