@@ -3,6 +3,7 @@
 # Maintainer: Aaron Griffin <aaron@archlinux.org>
 # SELinux Maintainer: Timothée Ravier <tim@siosm.fr>
 # SELinux Contributor: Nicky726 <Nicky726@gmail.com>
+# SELinux Contributor: Zezadas
 
 pkgname=shadow-selinux
 pkgver=4.1.5.1
